@@ -1,4 +1,4 @@
-<!-- GitAds-Verify: REPLACE_WITH_GITADS_CODE -->
+<!-- GitAds-Verify: 31AA1O4ZD2UHH96W1SV8RWTQSKIYY9CW -->
 
 # AI Engineer Roadmap 2026
 
